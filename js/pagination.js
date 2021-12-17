@@ -4,7 +4,7 @@ $(document).ready(function() {
     var max_page = 2;
     var page_main_tittles = ['KADA UMAGA | DECEMBER 17 , 2021			',
                             'KADA UMAGA  | DECEMBER 16 , 2021'];
-    var page_sub_tittles = ['Today','Yesterday'];
+    var page_sub_tittles = ['Friday','Thursday'];
 
     updatePaging(current_page,max_page,page_main_tittles,page_sub_tittles)
 
