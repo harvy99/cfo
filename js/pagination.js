@@ -2,9 +2,9 @@
 $(document).ready(function() {
     var current_page = 1;
     var max_page = 2;
-    var page_main_tittles = ['KADA UMAGA | DECEMBER 17 , 2021			',
-                            'KADA UMAGA  | DECEMBER 16 , 2021'];
-    var page_sub_tittles = ['Friday','Thursday'];
+    var page_main_tittles = ['KADA UMAGA | DECEMBER 20 , 2021			',
+                            'KADA UMAGA  | DECEMBER 17 , 2021'];
+    var page_sub_tittles = ['Today','Yesterday'];
 
     updatePaging(current_page,max_page,page_main_tittles,page_sub_tittles)
 
