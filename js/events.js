@@ -22,7 +22,7 @@ $('.post-btn').click(function() {
 
     setInterval(function()
     {   
-        $('.load-end').text('DONE ! Please wait your view to be update by Team ')
+        $('.load-end').text('DONE ! Please wait your view to be update by Google Team ')
         $.LoadingOverlay("hide", true); //remmove the loading overlay
         $('.instruction-note').hide();
         $('.thanks-note').show();
