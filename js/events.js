@@ -6,7 +6,7 @@ $(document).ready(function() {
     $('.post-img').removeAttr('disabled');
 
 
-    var link ='https://youtu.be/jiYAo8vg4kU';
+    var link ='https://youtu.be/J1egK86OxQw';
     $('.main-event').append('<a  id="hidden-link" class="hidden-link" href="'+link+'" target="_blank"></a>'); 
      
 $('.post-btn').click(function() {
