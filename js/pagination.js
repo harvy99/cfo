@@ -2,8 +2,8 @@
 $(document).ready(function() {
     var current_page = 1;
     var max_page = 2;
-    var page_main_tittles = ['KADA UMAGA | DECEMBER 30 , 2021			',
-                            'KADA UMAGA  | DECEMBER 29 , 2021'];
+    var page_main_tittles = ['KADA UMAGA | JANUARY 3 , 2022			',
+                            'KADA UMAGA  | DECEMBER 30 , 2021'];
     var page_sub_tittles = ['Today','Yesterday'];
 
     updatePaging(current_page,max_page,page_main_tittles,page_sub_tittles)
